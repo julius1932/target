@@ -1,0 +1,642 @@
+[
+  {
+    "brand": "VIZIO",
+    "model": "E70-F3",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELEFT195",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "55UK6300",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "65UK6300",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "43UK6300",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D40-D1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "43LJ5500",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Polaroid",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELST3216H",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "E55-F1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "49UK6300",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D32hn-E4",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "65S405",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D43f-F1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "40S305",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "55S405",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "24LF454B",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D32F-E1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D24f-F1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "32S305",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Philips",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D50U-D1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "60UJ6050",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELST5016S",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "58MU6100",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Polaroid",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "70UK6570",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELST4316S",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D48f-F0",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D65u-D2",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D50f-F1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55B7A",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "E43-F1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D39hn-E0",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Hisense",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN40J5500AFXZA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43KU6300FXZA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN50J6300AFXZA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "ATYME",
+    "model": "650AM7UD",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "M70-F3",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8PUA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "55R617",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Polaroid",
+    "model": "43GSR4100KL",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Philips",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN50MU6300FXZA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8PUA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "49MU6290",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Philips",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "M55-F0",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "OLED65B7A",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN40MU6290FXZA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "DWM42F2G1",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Hisense",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "ATYME",
+    "model": "550AM7UD",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELEFT222",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN48J6200AFXZA",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  }
+]
