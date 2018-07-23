@@ -2,6 +2,7 @@
   {
     "brand": "Bose",
     "model": "",
+    "url": "https://www.target.com/p/bose-acoustimass-300-wireless-bass-module-black/-/A-51939706",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -10,6 +11,7 @@
   {
     "brand": "LG",
     "model": "",
+    "url": "https://www.target.com/p/lg-2-1-channel-160w-soundbar-with-wireless-subwoofer-and-bluetooth-connectivity-black-sj2/-/A-53478121",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -18,6 +20,25 @@
   {
     "brand": "Element",
     "model": "",
+    "url": "https://www.target.com/p/element-2-0-sound-bar-black/-/A-53783646",
+    "category": "Sound Bars",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-2-1-sound-bar-system-with-wireless-subwoofer-black/-/A-53783652",
+    "category": "Sound Bars",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-2-1-sound-bar-with-wireless-subwoofer-black-esb206/-/A-51192044",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -26,6 +47,7 @@
   {
     "brand": "Polk",
     "model": "",
+    "url": "https://www.target.com/p/polk-omni-sb1-plus-sound-bar-black-am6946-a/-/A-51116157",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -34,6 +56,7 @@
   {
     "brand": "Samsung",
     "model": "",
+    "url": "https://www.target.com/p/samsung-3-1-soundbar-with-340w-wireless-sub-black-hw-mm55/-/A-53479804",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -42,6 +65,7 @@
   {
     "brand": "Samsung",
     "model": "",
+    "url": "https://www.target.com/p/samsung-2-1-soundbar-with-320w-wireless-sub-black-hw-mm45/-/A-53480068",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -50,6 +74,7 @@
   {
     "brand": "Samsung",
     "model": "",
+    "url": "https://www.target.com/p/samsung-2-1-soundbar-with-150w-wireless-sub-black-hw-mm36/-/A-53480130",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -58,6 +83,7 @@
   {
     "brand": "Sony",
     "model": "",
+    "url": "https://www.target.com/p/sony-2-1-mini-sound-bar-with-wireless-subwoofer-white-htmt300-w/-/A-52467884",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -66,6 +92,7 @@
   {
     "brand": "Sony 2.0",
     "model": "",
+    "url": "https://www.target.com/p/sony-nbsp-2-0-channel-nbsp-120w-sound-nbsp-bar-nbsp-with-built-in-tweeter-and-bluetooth-black-hts100f/-/A-53449124",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -74,6 +101,16 @@
   {
     "brand": "Sony",
     "model": "",
+    "url": "https://www.target.com/p/sony-2-1-channel-sound-bar-with-built-in-subwoofer-and-bluetooth-black-hts200f/-/A-53449134",
+    "category": "Sound Bars",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Bose",
+    "model": "",
+    "url": "https://www.target.com/p/bose-soundtouch-300-soundbar-black/-/A-51939410",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -82,6 +119,7 @@
   {
     "brand": "VIZIO",
     "model": "",
+    "url": "https://www.target.com/p/vizio-smartcast-38-2-1-soundbar-system-sb3821-d6/-/A-51269376",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -90,6 +128,7 @@
   {
     "brand": "LG",
     "model": "",
+    "url": "https://www.target.com/p/lg-sj4y-2-1-ch-300w-soundbar-w-wireless-subwoofer/-/A-52123891",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -98,6 +137,7 @@
   {
     "brand": "Bose®",
     "model": "",
+    "url": "https://www.target.com/p/bose-174-solo-5-soundbar/-/A-50711627",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -106,6 +146,7 @@
   {
     "brand": "VIZIO",
     "model": "",
+    "url": "https://www.target.com/p/vizio-36-2-1-sound-bar-system-black-sb3621n-e8/-/A-17034568",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -114,6 +155,7 @@
   {
     "brand": "VIZIO",
     "model": "",
+    "url": "https://www.target.com/p/vizio-36-5-1-sound-bar-system-black-sb3651-e6/-/A-17303189",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",
@@ -122,6 +164,7 @@
   {
     "brand": "VIZIO",
     "model": "IPod Touch, iPhone 4/4s, iPad",
+    "url": "https://www.target.com/p/vizio-28-2-0-sound-bar-black-sb2820n-e0/-/A-14749596",
     "category": "Sound Bars",
     "source": "Target",
     "sourceType": "retailer",

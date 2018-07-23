@@ -109,6 +109,7 @@ async function crawl() {
         items.push({
             brand:hotelData.brand,
             model:model,
+            url:nextPage,
             category: "Sound Bars",
             source: "Target", 
             sourceType: "retailer",

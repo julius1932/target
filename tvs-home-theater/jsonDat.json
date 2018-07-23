@@ -1,591 +1,8 @@
 [
   {
-    "brand": "VIZIO",
-    "model": "E70-F3",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "ELEFT195",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "55UK6300",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG®",
-    "model": "65UK6300",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "43UK6300",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO®",
-    "model": "D40-D1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "43LJ5500",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Polaroid",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "ELST3216H",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "E55-F1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG®",
-    "model": "49UK6300",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO®",
-    "model": "D32hn-E4",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "65S405",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "D43f-F1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "40S305",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "55S405",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "24LF454B",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "D32F-E1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO®",
-    "model": "D24f-F1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "32S305",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Philips",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "D50U-D1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG®",
-    "model": "60UJ6050",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "ELST5016S",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "58MU6100",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Polaroid",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "70UK6570",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "ELST4316S",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "D48f-F0",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "D65u-D2",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "D50f-F1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "OLED55B7A",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "E43-F1",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO®",
-    "model": "D39hn-E0",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Hisense",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "UN40J5500AFXZA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO®",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "UN43KU6300FXZA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "UN50J6300AFXZA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "ATYME",
-    "model": "650AM7UD",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "M70-F3",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "OLED65C8PUA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "TCL",
-    "model": "55R617",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Polaroid",
-    "model": "43GSR4100KL",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Philips",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "UN50MU6300FXZA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG",
-    "model": "OLED55C8PUA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "49MU6290",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Philips",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "VIZIO",
-    "model": "M55-F0",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "LG®",
-    "model": "OLED65B7A",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Element",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Samsung",
-    "model": "UN40MU6290FXZA",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Westinghouse",
-    "model": "",
-    "category": "Televisions",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
     "brand": "Westinghouse",
     "model": "DWM42F2G1",
+    "url": "https://www.target.com/p/westinghouse-42-class-1080p-60hz-led-hdtv-black-dwm42f2g1/-/A-15186872",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",
@@ -594,6 +11,7 @@
   {
     "brand": "Hisense",
     "model": "",
+    "url": "https://www.target.com/p/hisense-65-4k-roku-tv-black-65r6d/-/A-53479500",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",
@@ -602,6 +20,7 @@
   {
     "brand": "Samsung",
     "model": "",
+    "url": "https://www.target.com/p/samsung-43-flat-4k-uhd-black-un43mu6300fxza/-/A-52478091",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",
@@ -610,6 +29,7 @@
   {
     "brand": "ATYME",
     "model": "550AM7UD",
+    "url": "https://www.target.com/p/atyme-55-class-4k-2160p-led-tv-550am7ud/-/A-53267429",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",
@@ -618,6 +38,7 @@
   {
     "brand": "Element",
     "model": "",
+    "url": "https://www.target.com/p/element-65-4k-uhd-smart-tv-amazon-fire-tv-edition-black-el4kamz6517t/-/A-52478001",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",
@@ -626,6 +47,7 @@
   {
     "brand": "Element",
     "model": "ELEFT222",
+    "url": "https://www.target.com/p/element-22-class-1080p-60hz-led-tv-eleft222/-/A-15262601",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",
@@ -634,6 +56,646 @@
   {
     "brand": "Samsung",
     "model": "UN48J6200AFXZA",
+    "url": "https://www.target.com/p/samsung-48-flat-panel-tv-1080p-120-hz-smart-tv-black-un48j6200afxza/-/A-17246727",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Hisense",
+    "model": "",
+    "url": "https://www.target.com/p/hisense-65-4k-ultra-hd-smart-tv-black-65h8c/-/A-53479262",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN40J5500AFXZA",
+    "url": "https://www.target.com/p/samsung-40-class-1080p-60-hz-smart-quad-core-tv-black-un40j5500afxza/-/A-17246724",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-49-curved-4k-uhd-black-un49mu7500fxza/-/A-52478525",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "",
+    "url": "https://www.target.com/p/vizio-174-smartcast-153-e-series-80-class-80-diag-2160p-120hz-ultra-hd-hdr-xled-153-display-e80-e3/-/A-52297412",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43KU6300FXZA",
+    "url": "https://www.target.com/p/samsung-43in-2160p-120-hz-flat-panel-tv-black-un43ku6300fxza/-/A-51131064",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN50J6300AFXZA",
+    "url": "https://www.target.com/p/samsung-50-class-1080p-120hz-quad-core-smart-led-tv-black-un50j6300afxza/-/A-17246732",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "ATYME",
+    "model": "650AM7UD",
+    "url": "https://www.target.com/p/atyme-65-class-4k-2160p-led-tv-650am7ud/-/A-53267440",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "M70-F3",
+    "url": "https://www.target.com/p/vizio-m-series-153-70-class-69-5-diag-4k-hdr-smart-tv-black-m70-f3/-/A-53453488",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-49-curved-4k-uhd-black-un49mu6500fxza/-/A-52478243",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8PUA",
+    "url": "https://www.target.com/p/lg-65-4k-uhd-hdr-smart-oled-tv-black-grey-oled65c8pua/-/A-53417000",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "55MU6500",
+    "url": "https://www.target.com/p/samsung-55-curved-smart-uhd-4k-120-motion-rate-tv-55mu6500/-/A-50672694",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-65-flat-4k-uhd-black-silver-un65mu7000fxza/-/A-52478476",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "55R617",
+    "url": "https://www.target.com/p/tcl-55-class-4k-dolby-vision-hdr-roku-smart-led-tv-55r617/-/A-53728125",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Polaroid",
+    "model": "43GSR4100KL",
+    "url": "https://www.target.com/p/polaroid-43-4k-uhd-led-tv-with-chromecast-built-in/-/A-52720842",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Philips",
+    "model": "",
+    "url": "https://www.target.com/p/philips-55-smart-uhd-bright-pro-tv-black-55pfl5703/-/A-53381430",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN50MU6300FXZA",
+    "url": "https://www.target.com/p/samsung-50-smart-uhd-4k-120-motion-rate-tv-un50mu6300fxza/-/A-50714354",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8PUA",
+    "url": "https://www.target.com/p/lg-55-4k-uhd-hdr-smart-oled-tv-black-grey-oled55c8pua/-/A-53416873",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "49MU6290",
+    "url": "https://www.target.com/p/samsung-49-uhd-49mu6290/-/A-52897681",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Philips",
+    "model": "",
+    "url": "https://www.target.com/p/philips-43-smart-uhd-bright-pro-tv-black-43pfl5703/-/A-53381101",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "M55-F0",
+    "url": "https://www.target.com/p/vizio-m-series-55-class-54-5-diag-4k-hdr-smart-tv-black-m55-f0/-/A-53347152",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-55-4k-uhd-120hz-smart-android-tv-with-google-assistant-black-e4sta5517/-/A-53328829",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "OLED65B7A",
+    "url": "https://www.target.com/p/lg-174-65-4k-uhd-hdr-smart-oled-tv-oled65b7a/-/A-52693804",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-50-4k-uhd-60hz-smart-tv/-/A-52495781",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN40MU6290FXZA",
+    "url": "https://www.target.com/p/samsung-40-flat-uhd-tv-black-un40mu6290fxza/-/A-53069899",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Philips",
+    "model": "",
+    "url": "https://www.target.com/p/philips-50-smart-uhd-bright-pro-tv-black-50pfl5703/-/A-53381411",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D50U-D1",
+    "url": "https://www.target.com/p/vizio-d-series-50-class-49-5-diag-4k-ultra-hd-hdr-full-array-led-smart-hdtv/-/A-50651255",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "60UJ6050",
+    "url": "https://www.target.com/p/lg-174-60-4k-ultra-hd-smart-led-tv/-/A-52702342",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELST5016S",
+    "url": "https://www.target.com/p/element-50-smart-1080p-60hz-led-hdtv-black-elst5016s/-/A-50541552",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-43-smart-uhd-tv-black-un43nu7100/-/A-53437142",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-40-1080p-60hz-smart-led-hd-tv-black/-/A-52209317",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "58MU6100",
+    "url": "https://www.target.com/p/samsung-58-4k-uhd-smart-tv-58mu6100/-/A-52760283",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-40-smart-uhd-tv-black-un40nu7100/-/A-53436912",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-65-smart-curved-uhd-tv-black-un65nu7300fxza/-/A-53437420",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Polaroid",
+    "model": "",
+    "url": "https://www.target.com/p/polaroid-40gsr3000fc-40-1080p-led-tv-black/-/A-52148101",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "70UK6570",
+    "url": "https://www.target.com/p/lg-70-4k-uhd-hdr-smart-tv-silver-70uk6570/-/A-53411480",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-55-smart-curved-uhd-tv-black-un55nu7300fxza/-/A-53437368",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELST4316S",
+    "url": "https://www.target.com/p/element-43-smart-1080p-60hz-led-hdtv-black-elst4316s/-/A-50541393",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D48f-F0",
+    "url": "https://www.target.com/p/vizio-d-series-48-class-47-60-diag-1080p-120hz-full-array-led-smart-hdtv/-/A-15154593",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D65u-D2",
+    "url": "https://www.target.com/p/vizio-e-series-65-class-64-5-diag-4k-hdr-smart-tv-black-e65-f0/-/A-50651388",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-55-4k-uhd-60hz-smart-tv/-/A-52495829",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D50f-F1",
+    "url": "https://www.target.com/p/vizio-d-series-153-50-class-49-5-diag-1080p-full-array-led-smart-hdtv-d50f-f1/-/A-14408504",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-65-smart-uhd-tv-black-un65nu7100/-/A-53437300",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55B7A",
+    "url": "https://www.target.com/p/lg-55-class-2160p-4k-ultra-hd-hdr-smart-oled-tv-oled55b7a/-/A-52328755",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "E43-F1",
+    "url": "https://www.target.com/p/vizio-e-series-153-43-class-42-5-diag-4k-hdr-smart-tv-black-e43-f1/-/A-53281339",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "",
+    "url": "https://www.target.com/p/vizio-d-series-60-class-59-5-diag-4k-hdr-smart-tv-black-d60-f3/-/A-53281245",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D39hn-E0",
+    "url": "https://www.target.com/p/vizio-174-d-series-39-class-38-5-diag-720p-60hz-led-tv/-/A-17088355",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-55-smart-uhd-tv-black-un55nu7100/-/A-53437241",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "E70-F3",
+    "url": "https://www.target.com/p/vizio-e-series-70-class-69-5-diag-4k-hdr-smart-tv-black-e70-f3/-/A-53347121",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELEFT195",
+    "url": "https://www.target.com/p/element-19-class-720p-60hz-led-tv-eleft195/-/A-14715463",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "55UK6300",
+    "url": "https://www.target.com/p/lg-55-class-2160p-4k-ultra-hd-smart-led-tv/-/A-51972816",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "65UK6300",
+    "url": "https://www.target.com/p/lg-174-65-4k-ultra-hd-smart-led-tv/-/A-52702382",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "43UK6300",
+    "url": "https://www.target.com/p/lg-43-4k-uhd-hdr-smart-tv-43uk6300/-/A-53025663",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D40-D1",
+    "url": "https://www.target.com/p/vizio-174-d-series-40-class-39-96-diag-1080p-120hz-full-array-led-smart-hdtv-d40f-e1/-/A-17221613",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "43LJ5500",
+    "url": "https://www.target.com/p/lg-43-class-1080p-full-hd-smart-led-tv-43lj5500/-/A-50689457",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Polaroid",
+    "model": "",
+    "url": "https://www.target.com/p/polaroid-32gsr3000fc-32-flat-panel-720p-led-tv/-/A-51342454",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "ELST3216H",
+    "url": "https://www.target.com/p/element-32-smart-720p-60hz-led-tv/-/A-51362052",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "E55-F1",
+    "url": "https://www.target.com/p/vizio-e-series-55-class-54-5-diag-4k-hdr-smart-tv/-/A-53281451",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG®",
+    "model": "49UK6300",
+    "url": "https://www.target.com/p/lg-174-49-4k-ultra-hd-smart-led-tv/-/A-52702277",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Element",
+    "model": "",
+    "url": "https://www.target.com/p/element-24-720p-60hz-led-tv-black-eleft2416/-/A-17189712",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D32hn-E4",
+    "url": "https://www.target.com/p/vizio-174-d-series-32-class-31-50-diag-720p-60hz-full-array-led-tv/-/A-14247373",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "65S405",
+    "url": "https://www.target.com/p/tcl-65-4k-hdr-120hz-cmi-roku-smart-led-tv-black-65s405/-/A-50939781",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "Samsung",
+    "model": "",
+    "url": "https://www.target.com/p/samsung-32-class-720p-60-motion-rate-smart-hd-tv-m4500/-/A-51784506",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D43f-F1",
+    "url": "https://www.target.com/p/vizio-d-series-153-43-class-42-5-diag-1080p-full-array-led-smart-hdtv-d43f-f1/-/A-17147846",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "",
+    "url": "https://www.target.com/p/tcl-43-4k-hdr-120hz-cmi-roku-smart-led-tv-black-43s405/-/A-52177069",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "40S305",
+    "url": "https://www.target.com/p/tcl-40-1080p-120hz-cmi-roku-smart-led-tv-black-40s305/-/A-50480455",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "55S405",
+    "url": "https://www.target.com/p/tcl-55-4k-hdr-120hz-cmi-roku-smart-led-tv-black-55s405/-/A-50480469",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "LG",
+    "model": "24LF454B",
+    "url": "https://www.target.com/p/lg-24-class-720p-60hz-led-hdtv-24lf454b/-/A-15193616",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO",
+    "model": "D32F-E1",
+    "url": "https://www.target.com/p/vizio-d-series-153-d-series-32-class-31-50-diag-1080p-60hz-full-array-led-smart-hdtv/-/A-52228566",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "VIZIO®",
+    "model": "D24f-F1",
+    "url": "https://www.target.com/p/vizio-174-d-series-153-24-class-23-80-diag-1080p-60hz-led-smart-hdtv-d24f-f1/-/A-15224558",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "",
+    "url": "https://www.target.com/p/tcl-49-4k-uhd-hdr-roku-smart-tv/-/A-52177113",
+    "category": "Televisions",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "TCL",
+    "model": "32S305",
+    "url": "https://www.target.com/p/tcl-32-720p-60hz-roku-smart-led-tv-black-32s305/-/A-50480431",
     "category": "Televisions",
     "source": "Target",
     "sourceType": "retailer",

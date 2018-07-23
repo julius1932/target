@@ -2,6 +2,7 @@
   {
     "brand": "NVIDIA®",
     "model": "",
+    "url": "https://www.target.com/p/nvidia-174-shield-153-tv-pro-stand-black/-/A-52212547",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -10,6 +11,7 @@
   {
     "brand": "PBS",
     "model": "",
+    "url": "https://www.target.com/p/pbs-kids-tv-streaming-player-green/-/A-52565088",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -18,6 +20,7 @@
   {
     "brand": "NVIDIA®",
     "model": "",
+    "url": "https://www.target.com/p/nvidia-174-shield-153-remote-black/-/A-52212562",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -26,6 +29,7 @@
   {
     "brand": "NVIDIA®",
     "model": "",
+    "url": "https://www.target.com/p/nvidia-174-shield-153-tv-streaming-controller-black/-/A-52070435",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -34,6 +38,16 @@
   {
     "brand": "SiliconDust",
     "model": "",
+    "url": "https://www.target.com/p/silicondust-hdhomerun-connect-duo-tv-streaming-player-black-4988987/-/A-53434482",
+    "category": "Streaming Media Players",
+    "source": "Target",
+    "sourceType": "retailer",
+    "sourceId": 2
+  },
+  {
+    "brand": "SiliconDust",
+    "model": "",
+    "url": "https://www.target.com/p/silicondust-hdhomerun-connect-quatro-tv-streaming-player-black-4988977/-/A-53434503",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -42,6 +56,7 @@
   {
     "brand": "NVIDIA",
     "model": "",
+    "url": "https://www.target.com/p/nvidia-tv-streaming-player-black-945128972500100/-/A-53087631",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -50,6 +65,7 @@
   {
     "brand": "NVIDIA",
     "model": "",
+    "url": "https://www.target.com/p/nvidia-tv-streaming-player-black/-/A-53171466",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -58,6 +74,7 @@
   {
     "brand": "Apple®",
     "model": "",
+    "url": "https://www.target.com/p/apple-174-tv-4th-generation-32gb/-/A-52944786",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -66,14 +83,7 @@
   {
     "brand": "Roku",
     "model": "",
-    "category": "Streaming Media Players",
-    "source": "Target",
-    "sourceType": "retailer",
-    "sourceId": 2
-  },
-  {
-    "brand": "Roku",
-    "model": "",
+    "url": "https://www.target.com/p/roku-streaming-stick-black-3810r/-/A-52709600",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -82,6 +92,7 @@
   {
     "brand": "Google",
     "model": "",
+    "url": "https://www.target.com/p/google-chromecast-audio/-/A-50317490",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -90,6 +101,7 @@
   {
     "brand": "Amazon",
     "model": "",
+    "url": "https://www.target.com/p/amazon-fire-tv-with-4k-ultra-hd-and-alexa-voice-remote/-/A-53024430",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -98,6 +110,7 @@
   {
     "brand": "Apple®",
     "model": "",
+    "url": "https://www.target.com/p/apple-174-tv-4k/-/A-52978798?preselect=52944781#lnk=sametab",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -106,6 +119,7 @@
   {
     "brand": "Google",
     "model": "",
+    "url": "https://www.target.com/p/google-chromecast/-/A-50072152",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -114,6 +128,7 @@
   {
     "brand": "Roku",
     "model": "",
+    "url": "https://www.target.com/p/roku-streaming-stick-black-3800r/-/A-52705898",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -122,6 +137,7 @@
   {
     "brand": "Roku",
     "model": "",
+    "url": "https://www.target.com/p/roku-express-streaming-player/-/A-52105147",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -130,6 +146,7 @@
   {
     "brand": "Google",
     "model": "",
+    "url": "https://www.target.com/p/google-chromecast-ultra-black/-/A-51466773",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -138,6 +155,7 @@
   {
     "brand": "Google",
     "model": "",
+    "url": "https://www.target.com/p/google-chromecast/-/A-50072152",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",
@@ -146,6 +164,7 @@
   {
     "brand": "Amazon",
     "model": "",
+    "url": "https://www.target.com/p/amazon-fire-tv-stick-with-alexa-voice-remote/-/A-51760055",
     "category": "Streaming Media Players",
     "source": "Target",
     "sourceType": "retailer",

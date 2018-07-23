@@ -2,10 +2,10 @@ const puppeteer = require('puppeteer');
 var URL = require('url-parse');
 var jsonfile = require('jsonfile');
 
-//var START_URL = 'https://www.target.com/c/tvs-home-theater-electronics/-/N-5xtdj';
+var START_URL = 'https://www.target.com/c/tvs-home-theater-electronics/-/N-5xtdj';
 //var START_URL = "https://www.target.com/c/tvs-home-theater-electronics/-/N-5xtdj?Nao=24";
 //var START_URL = "https://www.target.com/c/tvs-home-theater-electronics/-/N-5xtdj?Nao=48";
-var START_URL = "https://www.target.com/c/tvs-home-theater-electronics/-/N-5xtdj?Nao=72";
+//var START_URL = "https://www.target.com/c/tvs-home-theater-electronics/-/N-5xtdj?Nao=72";
 var MAX_PAGES_TO_VISIT = 1000;
 
 var pagesVisited = {};
@@ -113,6 +113,7 @@ async function crawl() {
         items.push({
             brand:hotelData.brand,
             model:model,
+            url:nextPage,
             category: "Televisions",
             source: "Target", 
             sourceType: "retailer",

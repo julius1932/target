@@ -109,6 +109,7 @@ async function crawl() {
         items.push({
             brand:hotelData.brand,
             model:model,
+            url:nextPage,
             category: "Streaming Media Players",
             source: "Target", 
             sourceType: "retailer",

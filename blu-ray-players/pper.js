@@ -109,6 +109,7 @@ async function crawl() {
         items.push({
             brand:hotelData.brand,
             model:model,
+             url:nextPage,
             category: "Blu-Ray Players",
             source: "Target", 
             sourceType: "retailer",

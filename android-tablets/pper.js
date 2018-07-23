@@ -1,9 +1,9 @@
 const puppeteer = require('puppeteer');
 var URL = require('url-parse');
 var jsonfile = require('jsonfile');
-//var START_URL = "https://www.target.com/s?searchTerm=android+tablets";
+var START_URL = "https://www.target.com/s?searchTerm=android+tablets";
 //var START_URL = "https://www.target.com/s?searchTerm=android+tablets&Nao=24";
-var START_URL =  "https://www.target.com/s?searchTerm=android+tablets&Nao=48";
+//var START_URL =  "https://www.target.com/s?searchTerm=android+tablets&Nao=48";
 var MAX_PAGES_TO_VISIT = 1000;
 
 var pagesVisited = {};
@@ -111,6 +111,7 @@ async function crawl() {
         items.push({
             brand:hotelData.brand,
             model:model,
+            url:nextPage,
             category: "Android Tablets",
             source: "Target", 
             sourceType: "retailer",
